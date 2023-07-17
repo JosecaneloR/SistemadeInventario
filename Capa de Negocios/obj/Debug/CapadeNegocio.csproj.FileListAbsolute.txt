@@ -1,0 +1,22 @@
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\obj\Debug\CapadeNegocio.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\obj\Debug\CapadeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Negocios.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Negocios.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\bin\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Datos.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\bin\Debug\CapadeSoporte.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\obj\Debug\CapadeNegocio.csproj.CopyComplete
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\obj\Debug\Capa de Negocios.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Negocios\obj\Debug\Capa de Negocios.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Negocios.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Negocios.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\bin\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\bin\Debug\Capa de Datos.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\bin\Debug\CapadeSoporte.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\obj\Debug\CapadeNegocio.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\obj\Debug\CapadeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\obj\Debug\CapadeNegocio.csproj.CopyComplete
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\obj\Debug\Capa de Negocios.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Negocios\obj\Debug\Capa de Negocios.pdb

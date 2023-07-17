@@ -1,0 +1,47 @@
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Form1.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.GenerateResource.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.CopyComplete
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Negocios.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Negocios.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\CapadeSoporte.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Datos.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Nuevo_producto.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Buscar_Producto.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Eliminar_producto.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Modificar_producto.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Reportes.resources
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.AgregarUsuario.resources
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.AgregarUsuario.resources
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Form1.resources
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Nuevo_producto.resources
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.GenerateResource.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Negocios.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Negocios.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\CapadeSoporte.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\bin\Debug\Capa de Datos.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Sistema de Inventario\obj\Debug\CapadePresentaciòn.csproj.CopyComplete

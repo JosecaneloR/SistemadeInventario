@@ -1,0 +1,6 @@
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\CapadeSoporte\obj\Debug\CapadeSoporte.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\CapadeSoporte\obj\Debug\CapadeSoporte.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\CapadeSoporte\bin\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\CapadeSoporte\bin\Debug\CapadeSoporte.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\CapadeSoporte\obj\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\CapadeSoporte\obj\Debug\CapadeSoporte.pdb

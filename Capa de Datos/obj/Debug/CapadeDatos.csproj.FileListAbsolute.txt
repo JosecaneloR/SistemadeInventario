@@ -1,0 +1,18 @@
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\obj\Debug\CapadeDatos.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\obj\Debug\CapadeDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\bin\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\bin\Debug\Capa de Datos.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\bin\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\bin\Debug\CapadeSoporte.pdb
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\obj\Debug\CapadeDatos.csproj.CopyComplete
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\obj\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\source\repos\Sistema de Inventario\Capa de Datos\obj\Debug\Capa de Datos.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\bin\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\bin\Debug\Capa de Datos.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\bin\Debug\CapadeSoporte.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\bin\Debug\CapadeSoporte.pdb
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\obj\Debug\CapadeDatos.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\obj\Debug\CapadeDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\obj\Debug\CapadeDatos.csproj.CopyComplete
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\obj\Debug\Capa de Datos.dll
+C:\Users\DELL LATITUDE 54'80\Desktop\Sistema de Inventario\Capa de Datos\obj\Debug\Capa de Datos.pdb
